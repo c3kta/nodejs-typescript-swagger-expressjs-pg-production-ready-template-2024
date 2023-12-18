@@ -1,7 +1,7 @@
 {
   "name": "flame-admin-api",
   "version": "0.0.1",
-  "description": "Flame admin panel REST API",
+  "description": "Node.js 2024 REST API template",
   "main": "/dist/src/index.js",
   "scripts": {
     "build": "npx tsc",
